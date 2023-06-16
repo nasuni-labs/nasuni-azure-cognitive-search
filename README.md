@@ -1,2 +1,2 @@
 # nasuni-azure-cognitive-search
-Terraform code that, provisions Azure Cognitive Search service  
+Provisioner for Azure Cognitive Search service
